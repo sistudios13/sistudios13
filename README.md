@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Simon</h1>
 <h3 align="center">A passionate young developer from Canada</h3>
 
-- 🔭 Currently working on [Shotstreak](https://github.com/sistudios13/Shotstreak)
+- 🔭 Currently working on [St. Thomas Events](https://github.com/sistudios13/STThomasEvents)
 
 - 👨‍💻 All of my projects are available at [https://portfolio.simonsites.com/](https://portfolio.simonsites.com/)
 
